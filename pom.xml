@@ -2,7 +2,6 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>kms-api-examples</groupId>
 <artifactId>check-endpoint</artifactId>
-<artifactId>check-endpoint</artifactId>
   <finalName>${check-endpoint}-${version1.0}</finalName>
   <sourceDirectory>src</sourceDirectory>
   <testSourceDirectory>test</testSourceDirectory>
