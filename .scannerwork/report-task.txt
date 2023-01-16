@@ -1,0 +1,7 @@
+organization=cliffopande
+projectKey=CliffOpande_check-endpoint
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.36672
+dashboardUrl=https://sonarcloud.io/dashboard?id=CliffOpande_check-endpoint
+ceTaskId=AYW8TzKm79clD7VjccSH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYW8TzKm79clD7VjccSH

@@ -1,4 +1,4 @@
-# check-endpoint
+# check-endpoint...
 
 Steps to run our script
 
